@@ -2,8 +2,11 @@
 Valet Parking system for cars using Data Structures Linked List and Hash Tables.
 
 What you can do ? 
+
 1- Add a car or park a car.
+
 2 - Remove a car or unpark a car.
+
 3 - Access a car using the car number.
 
 Using Hash Tables will be efficient as compared to Linked list as accessing will be faster.
