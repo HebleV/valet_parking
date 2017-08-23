@@ -10,7 +10,7 @@ What you can do ?
 3 - Access a car using the car number.
 
 Using Hash Tables will be efficient as compared to Linked list as accessing will be faster.
-Though there might be collissions in Hash Tables but it could be solved using Linear Probing,
+Though there might be collissions in Hash Tables but it could be solved using Chaining, Linear Probing,
 Quadratic Probing, and Horner's Method. An efficient hash function implementation is key here.
 
 
